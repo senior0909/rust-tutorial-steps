@@ -1,0 +1,1 @@
+E:\work\blockchain\rust-workspace\rust-tutorial-steps\project_20_2\target\debug\project_20_2.exe: E:\work\blockchain\rust-workspace\rust-tutorial-steps\project_20_2\src\lib.rs E:\work\blockchain\rust-workspace\rust-tutorial-steps\project_20_2\src\main.rs
